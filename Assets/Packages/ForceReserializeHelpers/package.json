@@ -1,0 +1,18 @@
+{
+    "name"       : "com.xjine.force_reserialize_helpers",
+    "displayName": "ForceReserialize Helpers",
+    "version"    : "2.0.0",
+    "unity"      : "2022.3",
+    "description": "Helper tools for ForceReserialize assets and metadata.",
+    "author"     :
+    {
+        "name": "XJINE",
+        "url" : "https://github.com/XJINE"
+    },
+    "keywords":
+    [
+    ],
+    "dependencies":
+    {
+    }
+}
